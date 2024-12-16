@@ -4,8 +4,11 @@ To visualize and analyze customer and agent behaviors while uncovering actionabl
 
 - <a href="https://github.com/prakashr2000/Power_BI_PWC_Project/blob/main/01%20Call-Center-Dataset.xlsx">Dataset</a>
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+
+## Insights to be made
+
+- Overall customer satisfaction
+- Overall calls answered/abandoned
+- Calls by time
+- Average speed of answer
+- Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
