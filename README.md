@@ -12,3 +12,7 @@ To visualize and analyze customer and agent behaviors while uncovering actionabl
 - Calls by time
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+- Measures of men , women , leavers
+- % employees promoted (FY21) , women promoted, hires men, hires women, turnover
+- Average performance rating: men
+- Average Performance rating: women
